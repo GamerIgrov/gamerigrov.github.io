@@ -1,0 +1,35 @@
+.main_header {
+    height: 110px;
+    width: 100%;
+    background: black;
+    display: flex;
+    color: red;
+}
+
+.logo_img {
+    height: 150px;
+    width: 150px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.text {
+    font-size: 34px;
+    margin-top: 50px;
+    margin-left: 45px;
+}
+
+.main_body{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    background: #595959;
+}
+
+.body_video{
+    margin: 130px 500px;
+    
+}
+
+.block {
+}
